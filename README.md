@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rune</h1>
 <h3 align="center">Data Science Specialist | Physics PhD | ML & Algorithm Enthusiast</h3>
 
+I’m a curiosity-driven Data Scientist with an educational background in physics, optics and nanotechnology. My passion lies in building custom software solutions, advanced ML algorithms, and leveraging data insights to drive innovation.
+
 - 🔭 I’m currently working on [Non-Invasive Glucose Monitoring](https://www.rspsystems.com)
 
 - 📫 How to reach me **runeinglev@gmail.com**
