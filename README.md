@@ -7,7 +7,7 @@ I’m a curiosity-driven Data Scientist with an educational background in physic
 
 - 📫 How to reach me **runeinglev@gmail.com**
 
-- ⚡ Fun fact **Dancing Salsa, Brazilian Zouk, Bachata and Kizomba!**
+- ⚡ Fun fact **You can find me dancing Salsa, Brazilian Zouk, Bachata and Kizomba!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
