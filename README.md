@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rune</h1>
 <h3 align="center">Data Science Specialist | Physics PhD | ML & Algorithm Enthusiast</h3>
 
-I’m a curiosity-driven Data Scientist with an educational background in physics, optics and nanotechnology. My passion lies in building custom software solutions, advanced ML algorithms, and leveraging data insights to drive innovation.
+Data Scientist with a background in physics and photonics. I build machine learning models, data pipelines, and custom software to make sense of complex data. I have experience working with many different data sources, developing ML algorithms, and turning data into actionable insights. I enjoy collaborating across different fields, creating clear data visualizations, and building custom software tools to streamline analysis and decision-making.
 
 - 🔭 I’m currently working on [Non-Invasive Glucose Monitoring](https://www.rspsystems.com)
 
